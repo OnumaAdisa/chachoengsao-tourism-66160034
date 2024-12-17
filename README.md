@@ -27,3 +27,8 @@
 - git add README.md
 - git commit -m "git command used in this lab"
 - git push origin develop
+- git rm js/script.js
+- git commit -m "ลบไฟล์บางส่วนออก"
+- git add .
+- git commit -m "ปรับโครงสร้าง html"
+- git push origin develop
