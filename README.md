@@ -4,6 +4,7 @@
 - git add .
 - git commit -m "สร้างโครงสร้างไฟล์เบื้องต้น"
 - git checkout -b feature/home
+- git add index.html
 - git commit -m "เพิ่มหน้า home พร้อมโครงสร้าง html"
 - git checkout -b feature/attractions
 - git add contact.html
